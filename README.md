@@ -1,11 +1,11 @@
 # Hi, I'm Jee Yeon Song!
 
-## ✨About Me✨
+## ✨About Me
 
 - 숙명여자대학교 통계학과(심화전공), 컴퓨터과학과(부전공) 졸업 (2021.03 - 2024.08)
 - 숙명여자대학교 일반대학원 컴퓨터과학과 졸업 (2024.09 - 2026.08)
 - I'm interested in Machine Learning, Deep Learning, and AI Engineering.
-- My research focuses on efficient updates for Graph Neural Networks(GNN).
+- My research focuses on efficient updates of Graph Neural Network(GNN).
 - 📫 Feel free to reach me at [jeeyeonns@gmail.com](mailto:jeeyeonns@gmail.com)
 
 ---
